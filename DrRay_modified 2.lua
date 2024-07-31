@@ -41,7 +41,7 @@ DRR["4"]["Position"] = UDim2.new(0, 0, 0.4803149700164795, 0);
 DRR["5"] = Instance.new("UIListLayout", DRR["4"]);
 DRR["5"]["VerticalAlignment"] = Enum.VerticalAlignment.Center;
 DRR["5"]["FillDirection"] = Enum.FillDirection.Horizontal;
-DRR["5"]["Padding"] = UDim.new(0.099999999776482582, 0);
+DRR["5"]["Padding"] = UDim.new(0.009999999776482582, 0);
 DRR["5"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
 
 -- DrRay.TopBar.ScrollingFrame.UIPadding
